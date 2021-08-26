@@ -1,4 +1,4 @@
-# Airtable Issue Repro
+# [Airtable #278 Issue Repro](https://github.com/Airtable/airtable.js/issues/278)
 
 ## Installation Instruction
 
